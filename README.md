@@ -1,0 +1,1 @@
+The Learning.Ipynb File contains the whole python topics where i learned by self learning watching Youtube Tutorial, w3 Schools, Ai assistants helps me to understand the python. Im sure that this helpful for your Data Journery or quick go threw on python topics.

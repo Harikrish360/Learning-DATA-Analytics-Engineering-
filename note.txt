@@ -1,0 +1,4 @@
+welcome to Python file handling! 
+This is new file 
+This is completely ne3 3rd line. 
+Python is so easy.

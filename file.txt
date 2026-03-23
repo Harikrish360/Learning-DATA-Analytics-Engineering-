@@ -1,0 +1,6 @@
+INFO: Application Started 
+INFO: User Login Completed
+WARNING: Disk Space Low
+INFO: Schedule Task Started
+ERROR: Null pointer Exception Occured
+INFO: Application Started
